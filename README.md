@@ -1,16 +1,17 @@
-## Hi there 👋
+🎓 Director of the Institute of Behavioral Science & Technology [(IBT-HSG)] (https://www.ibt.unisg.ch/) and Professor of Marketing Analytics at the University of St.Gallen, Switzerland
 
-<!--
-**childebrand/childebrand** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🤖 Exploring the intersection of AI, human-computer interaction, and marketing to improve consumer-firm interactions in the marketplace
 
-Here are some ideas to get you started:
+🔬 Research Focus:
+- 🧠 Consumer-AI Interactions
+- 🦾 Adaptive Robots & User Interfaces
+- 🏦 Consumer Finance & Robo Advisory
+- 🛍️ Digital Marketing & E-Commerce Analytic
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⛰️ When not researching:
+- 🎿 Racing in trailrunning & ski mountaineering competitions
+- 🧗‍♂️ Climbing on rock and ice in the Swiss Alps
+- 👨‍👩‍👧‍👦 Enjoy (van) life with two sweet kids & my wife
+
+💫 Interested in collaborating on research at the intersection of marketing, psychology, and technology? Let's connect! 🤝
+
