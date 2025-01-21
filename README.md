@@ -1,13 +1,12 @@
-🎓 Director of the Institute of Behavioral Science & Technology [(IBT-HSG)] (https://www.ibt.unisg.ch/) and Professor of Marketing Analytics at the University of St.Gallen, Switzerland
+🎓 Director of the Institute of Behavioral Science & Technology [(IBT-HSG)](https://www.ibt.unisg.ch/) and Professor of Marketing Analytics at the University of St.Gallen, Switzerland
 
 🔬 Research Focus:
 - 🧠 Consumer-AI Interactions
 - 🦾 Adaptive Robots & User Interfaces
 - 🏦 Consumer Finance & Robo Advisory
-- 🛍️ Digital Marketing & E-Commerce Analytic
 
-⛰️ When not researching:
-- 🎿 Racing in trailrunning & ski mountaineering competitions
+⛰️ When Not Researching:
+- 🎿 Racing trailrunning & ski mountaineering competitions
 - 🧗‍♂️ Climbing on rock and ice in the Swiss Alps
 - 👨‍👩‍👧‍👦 Enjoy (van) life with two sweet kids & my wife
 
