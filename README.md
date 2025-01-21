@@ -1,7 +1,5 @@
 🎓 Director of the Institute of Behavioral Science & Technology [(IBT-HSG)] (https://www.ibt.unisg.ch/) and Professor of Marketing Analytics at the University of St.Gallen, Switzerland
 
-🤖 Exploring the intersection of AI, human-computer interaction, and marketing to improve consumer-firm interactions in the marketplace
-
 🔬 Research Focus:
 - 🧠 Consumer-AI Interactions
 - 🦾 Adaptive Robots & User Interfaces
